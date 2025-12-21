@@ -1,15 +1,16 @@
 # Assignment 1: OOP Java Library System
 
-**Student Name:** "Ghulam Ali Shafei"
+**Student Name:** Ghulam Ali Shafei 
+**Class:** IT-2509
 
-## What is this project?
-[cite_start]This is my Java project for the "Classes and Methods" assignment[cite: 2].
+## About this Project
+This is my first Java assignment for the Object-Oriented Programming course. It includes three main parts:
 
-### It contains three main parts:
-1. [cite_start]**The Rectangle Tool:** A class that calculates area and perimeter while making sure the size is valid[cite: 8, 26, 27].
-2. [cite_start]**The Book System:** A class to store book names, authors, and track if they are borrowed[cite: 30, 31, 37].
-3. [cite_start]**The Library App:** A console program with a menu (1-7) to manage the books[cite: 56, 69].
+1. **Rectangle Class:** A tool that calculates the area and perimeter of a rectangle. It has built-in rules to make sure width and height are always positive.
+2. **Book Class:** A system to store book details like Title, Author, and Year. It also tracks if a book is currently in the library or borrowed.
+3. **Library Application:** A program that lets a user add books, search for them, borrow/return them, or delete them using a simple menu.
 
-## How to use it
-Run the `LibraryApp.java` file to open the menu in your terminal.
-
+## How to Run
+1. Open the project in an IDE (like IntelliJ or VS Code).
+2. Find the file named `LibraryApp.java`.
+3. Run that file to see the menu in the console.
