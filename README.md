@@ -12,5 +12,6 @@ This is my first Java assignment for the Object-Oriented Programming course. It 
 
 ## How to Run
 1. Open the project in an IDE (like IntelliJ or VS Code).
-2. Find the file named `LibraryApp.java`.
+2. Find the file named `main.java`.
 3. Run that file to see the menu in the console.
+
